@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Escudero</h1>
 <h3 align="center">A passionate Medical Doctor and soon to be Data Scientist</h3>
-<img align="right" alt="Coding" width="400" scr="[https://www.pinterest.com.mx/pin/441071357264353941/](https://dribbble.com/shots/4502924-Python-developer-animation)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davescudero&label=Profile%20views&color=0e75b6&style=flat" alt="davescudero" /> </p>
 
