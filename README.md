@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/91165870/174640863-c189d8ff-67f9-478b-bdde-c706f6a3ac4f.gif)
 <h1 align="center">Hi 👋, I'm David Escudero</h1>
 <h3 align="center">A passionate Medical Doctor and soon to be Data Scientist</h3>
 
