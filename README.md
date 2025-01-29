@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Health Data Science**
 
-- 👯 I’m looking to collaborate on **Digital Transformation in Healthcare** **Health Data Science**
-
 - 📫 How to reach me **davidescuderogarcia9@gmail.com** **ciencia.datos.salud@iner.gob.mx**
 
 
