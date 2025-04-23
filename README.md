@@ -1,6 +1,6 @@
 ![banner_adn](https://user-images.githubusercontent.com/91165870/174641907-d7ed026c-c3a1-4281-9461-f14b0addac6d.gif)
 
-<h1 align="center">👨‍⚕️ David Escudero García</h1>
+<h1 align="center">David Escudero García</h1>
 <h3 align="center">Médico | Científico de Datos en Salud | Fundador de <a href="https://github.com/auragarciamx">AuraGarcia</a> y <a href="https://github.com/UCDS-INER">UCDS</a></h3>
 
 <p align="center">
