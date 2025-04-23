@@ -1,7 +1,7 @@
 ![banner_adn](https://user-images.githubusercontent.com/91165870/174641907-d7ed026c-c3a1-4281-9461-f14b0addac6d.gif)
 
 <h1 align="center">👨‍⚕️ David Escudero García</h1>
-<h3 align="center">Médico | Científico de Datos en Salud | Founder @ <a href="https://github.com/auragarcia">Auragarcia</a> & <a href="https://github.com/UCDS-INER">UCDS</a></h3>
+<h3 align="center">Médico | Científico de Datos en Salud | Founder @ <a href="https://github.com/auragarciamx">AuraGarcia</a> & <a href="https://github.com/UCDS-INER">UCDS</a></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davescudero&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="davescudero" />
@@ -40,8 +40,8 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 ### 📫 Contacto:
 
 - 🌐 [davescudero.github.io](https://davescudero.github.io)
-- 📧 **davidescudero@auragarcia.com**
-- 📧 **ciencia.datos.salud@iner.gob.mx**
+- 📧 **davidescudero@avragarcia.com**
+- 📧 **cienciadedatos.salud@gmail.com**
 - 🐦 [@davescudero](https://twitter.com/davescudero)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidescuderogarcia)
 
@@ -61,13 +61,7 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 ### 🤝 Organizaciones
 
 - 🧬 [UCDS - Unidad de Ciencia de Datos en Salud](https://github.com/UCDS-INER)
-- 🧠 [Auragarcia - Consultora en Salud Digital y Ciencia de Datos](https://github.com/auragarcia)
-
----
-
-🧠 *"La ciencia de datos no es solo tecnología, es una forma de cuidar mejor a las personas."*
-
-</details>
+- 🧠 [Auragarcia - Consultora en Salud Digital y Ciencia de Datos](https://github.com/auragarciamx)
 
 ---
 
