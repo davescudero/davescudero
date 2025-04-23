@@ -65,6 +65,9 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 
 ---
 
+---
+
+
 <details open>
   <summary><strong>🌐 English</strong></summary>
 
@@ -99,7 +102,7 @@ I'm also the founder of **Auragarcia**, a consultancy that blends data science, 
 - 📧 **davidescudero@auragarcia.com**
 - 📧 **ciencia.datos.salud@iner.gob.mx**
 - 🐦 [@davescudero](https://twitter.com/davescudero)
-- 💼 [LinkedIn](https://www.linkedin.com/in/davidescuderogarcia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/davescudero)
 
 ---
 
@@ -117,10 +120,8 @@ I'm also the founder of **Auragarcia**, a consultancy that blends data science, 
 ### 🤝 Organizations
 
 - 🧬 [UCDS - Health Data Science Unit](https://github.com/UCDS-INER)
-- 🧠 [Auragarcia - Digital Health & Data Science Consultancy](https://github.com/auragarcia)
+- 🧠 [Auragarcia - Digital Health & Data Science Consultancy](https://github.com/auragarciamx)
 
 ---
-
-🧠 *"Data science is not just about tech—it's a way to take better care of people."*
 
 </details>
