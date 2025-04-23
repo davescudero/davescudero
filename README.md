@@ -12,7 +12,7 @@
 <details>
   <summary><strong>🌐 Español</strong></summary>
 
-### 🌍 Sobre mí
+### Sobre mí
 
 Soy médico por vocación y científico de datos por evolución. Actualmente lidero la transformación digital y el análisis de datos en salud desde el **Instituto Nacional de Enfermedades Respiratorias (INER)**, donde fundé la **Unidad de Ciencia de Datos en Salud (UCDS)**.
 
@@ -20,7 +20,7 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 
 ---
 
-### 🚀 Actualmente trabajando en:
+### Actualmente trabajando en:
 
 - Transformación digital en instituciones de salud pública.
 - Implementación de estándares como **SNOMED CT** y arquitecturas como **OME-Zarr**.
@@ -29,7 +29,7 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 
 ---
 
-### 📚 Aprendiendo sobre:
+### Aprendiendo sobre:
 
 - Arquitecturas de datos clínicos (i2b2, OMOP, FHIR).
 - Interpretabilidad de modelos de aprendizaje profundo en imágenes médicas.
@@ -58,14 +58,13 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 
 ---
 
-### 🤝 Organizaciones
+### Organizaciones
 
 - 🧬 [UCDS - Unidad de Ciencia de Datos en Salud](https://github.com/UCDS-INER)
 - 🧠 [Auragarcia - Consultora en Salud Digital y Ciencia de Datos](https://github.com/auragarcia)
 
 ---
 
-🧠 *"La ciencia de datos no es solo tecnología, es una forma de cuidar mejor a las personas."*
 
 </details>
 
@@ -74,7 +73,7 @@ Además, soy fundador de **Auragarcia**, una consultora que integra ciencia de d
 <details open>
   <summary><strong>🌐 English</strong></summary>
 
-### 🌍 About Me
+### About Me
 
 I'm a medical doctor by vocation and a data scientist by evolution. I lead digital transformation and health data analytics at the **National Institute of Respiratory Diseases (INER)**, where I founded the **Health Data Science Unit (UCDS)**.
 
@@ -82,7 +81,7 @@ I'm also the founder of **AuraGarcia**, a consultancy that blends data science, 
 
 ---
 
-### 🚀 Currently Working On:
+### Currently Working On:
 
 - Digital transformation in public health institutions.
 - Implementation of standards like **SNOMED CT** and architectures like **OME-Zarr**.
@@ -91,7 +90,7 @@ I'm also the founder of **AuraGarcia**, a consultancy that blends data science, 
 
 ---
 
-### 📚 Currently Learning:
+### Currently Learning:
 
 - Clinical data architectures (i2b2, OMOP, FHIR).
 - Interpretability in deep learning for medical imaging.
