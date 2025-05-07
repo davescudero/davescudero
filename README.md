@@ -40,7 +40,7 @@ Además, soy fundador de **auragarcia**, una consultora que integra ciencia de d
 ### 📫 Contacto:
 
 - 🌐 [davescudero](https://davescudero.com)
-- 📧 **davidescudero@auragarcia.com**
+- 📧 **davidescudero@avragarcia.com**
 - 📧 **ciencia.datos.salud@iner.gob.mx**
 - 🐦 [@davescudero](https://twitter.com/davescudero)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidescuderogarcia)
