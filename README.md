@@ -39,7 +39,7 @@ Además, soy fundador de **auragarcia**, una consultora que integra ciencia de d
 
 ### 📫 Contacto:
 
-- 🌐 [davescudero.github.io](https://davescudero.github.io)
+- 🌐 [davescudero](https://davescudero.com)
 - 📧 **davidescudero@auragarcia.com**
 - 📧 **ciencia.datos.salud@iner.gob.mx**
 - 🐦 [@davescudero](https://twitter.com/davescudero)
@@ -100,7 +100,7 @@ I'm also the founder of **auragarcia**, a consultancy that blends data science, 
 
 ### 📫 Get in Touch:
 
-- 🌐 [davescudero.github.io](https://davescudero.github.io)
+- 🌐 [davescudero](https://davescudero.com)
 - 📧 **davidescudero@avragarcia.com**
 - 📧 **ciencia.datos.salud@iner.gob.mx**
 - 🐦 [@davescudero](https://twitter.com/davescudero)
