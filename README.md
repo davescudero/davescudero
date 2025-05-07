@@ -61,7 +61,7 @@ Además, soy fundador de **auragarcia**, una consultora que integra ciencia de d
 ### Organizaciones
 
 - 🧬 [UCDS - Unidad de Ciencia de Datos en Salud](https://github.com/UCDS-INER)
-- 🧠 [Auragarcia - Consultora en Salud Digital y Ciencia de Datos](https://github.com/auragarcia)
+- 🧠 [auragarcia - Consultora en Salud Digital y Ciencia de Datos](https://github.com/auragarcia)
 
 ---
 
@@ -77,7 +77,7 @@ Además, soy fundador de **auragarcia**, una consultora que integra ciencia de d
 
 I'm a medical doctor by vocation and a data scientist by evolution. I lead digital transformation and health data analytics at the **National Institute of Respiratory Diseases (INER)**, where I founded the **Health Data Science Unit (UCDS)**.
 
-I'm also the founder of **AuraGarcia**, a consultancy that blends data science, digital health, and AI to transform healthcare across Latin America.
+I'm also the founder of **auragarcia**, a consultancy that blends data science, digital health, and AI to transform healthcare across Latin America.
 
 ---
 
@@ -122,7 +122,7 @@ I'm also the founder of **AuraGarcia**, a consultancy that blends data science, 
 ### 🤝 Organizations
 
 - 🧬 [UCDS - Health Data Science Unit](https://github.com/UCDS-INER)
-- 🧠 [AuraGarcia - Digital Health & Data Science Consultancy](https://github.com/auragarciamx)
+- 🧠 [auragarcia - Digital Health & Data Science Consultancy](https://github.com/auragarciamx)
 
 ---
 
