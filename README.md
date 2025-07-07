@@ -1,7 +1,7 @@
 ![banner_adn](https://user-images.githubusercontent.com/91165870/174641907-d7ed026c-c3a1-4281-9461-f14b0addac6d.gif)
 
 <h1 align="center">👨‍⚕️ David Escudero García</h1>
-<h3 align="center">Médico | Científico de Datos en Salud |  @ <a href="https://github.com/auragarcia">auragarcia</a> & <a href="https://github.com/UCDS-INER">UCDS</a></h3>
+<h3 align="center">Médico | Científico de Datos en Salud |  @ <a href="https://github.com/auragarciamx">auragarcia</a> & <a href="https://github.com/UCDS-INER">UCDS</a></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davescudero&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="davescudero" />
