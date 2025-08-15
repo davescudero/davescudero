@@ -29,14 +29,6 @@ Además, soy fundador de **auragarcia**, una consultora que integra ciencia de d
 
 ---
 
-### Aprendiendo sobre:
-
-- Arquitecturas de datos clínicos (i2b2, OMOP, FHIR).
-- Interpretabilidad de modelos de aprendizaje profundo en imágenes médicas.
-- Modelos de negocio basados en economía circular para salud digital.
-
----
-
 ### 📫 Contacto:
 
 - 🌐 [davescudero](https://davescudero.com)
@@ -94,17 +86,6 @@ I'm also the founder of **auragarcia**, a consultancy that blends data science, 
 - 📧 **ciencia.datos.salud@iner.gob.mx**
 - 🐦 [@davescudero](https://twitter.com/davescudero)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davescudero)
-
----
-
-### ⚙️ Favorite Technologies
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Quarto](https://img.shields.io/badge/-Quarto-32A3E0?style=for-the-badge&logo=quarto&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
