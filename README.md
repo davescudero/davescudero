@@ -44,8 +44,6 @@ Además, soy fundador de **auragarcia**, una consultora que integra ciencia de d
 - 🧬 [UCDS - Unidad de Ciencia de Datos en Salud](https://github.com/UCDS-INER)
 - 🧠 [auragarcia - Consultora en Salud Digital y Ciencia de Datos](https://github.com/auragarcia)
 
----
-
 
 </details>
 
